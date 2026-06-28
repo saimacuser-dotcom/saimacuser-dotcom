@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0066FF&height=200&section=header&text=Saicharan%20Gollapalli&fontSize=40&fontColor=ffffff"/>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Saicharan+Gollapalli;DSA+Enthusiast;Backend+Developer;Open+Source+Learner"/>
+
+</p>
 
 <p align="center">
 
