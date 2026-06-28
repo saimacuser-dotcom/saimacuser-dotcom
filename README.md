@@ -40,6 +40,9 @@
 </a>
 
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saimacuser-dotcom/saimacuser-dotcom/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 <!--
 **saimacuser-dotcom/saimacuser-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
