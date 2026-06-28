@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Saicharan%20Gollapalli&fontSize=42&fontColor=ffffff&color=0:1e293b,100:0f172a"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8A2BE2,30:4B0082,60:00BFFF,100:00FFFF&text=Saicharan%20Gollapalli&fontColor=ffffff"/>
 
 <p align="center">
 
