@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Saicharan%20👋&fontColor=00FFC6&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Compiling%20Ideas%20Into%20Code&descAlignY=55&descSize=16&descColor=8892b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090311,50:1e0938,100:090311&text=Hi,%20I'm%20Saicharan%20👋&fontColor=00F0FF&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=16&descColor=A698BE"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=650&lines=const+dev+%3D+new+FullStackEngineer();;dev.status+%3D+%22Building+%F0%9F%9A%80%22;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;console.log(%22Let's+ship+something.%22)"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=const+dev+%3D+new+FullStackEngineer();;dev.status+%3D+%22Open+to+internships%22;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;console.log(%22Let's+ship+something.%22)"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-## 🧭 The Origin Story
+## // origin_story
 
 I didn't start out chasing frameworks — I started out chasing *"why doesn't this work?"* at 1 AM. That curiosity turned into a portfolio site, then a queue-management system with QR codes, then a habit of shipping something new every few weeks. I'm a **Smart India Hackathon finalist**, which basically means I've survived 36 hours of caffeine, whiteboard chaos, and last-minute demo bugs — and come out the other side actually enjoying it.
 
@@ -31,7 +31,7 @@ I build things that solve small, real annoyances: standing in a line, splitting 
 
 <br>
 
-## 🛠️ My Stack, As A Recipe
+## // stack.yaml
 
 <table align="center">
 <tr>
@@ -86,7 +86,7 @@ infra:
 
 <br>
 
-## 🗂️ Things I've Built
+## // projects/
 
 <details open>
 <summary><b>📱 Personal Portfolio Website</b> — where it all started</summary>
@@ -130,7 +130,7 @@ infra:
 
 <br>
 
-## 🏅 Proof I Didn't Just Watch Tutorials
+## // achievements.log
 
 | 🏆 | Milestone |
 |---|---|
@@ -143,7 +143,7 @@ infra:
 
 <br>
 
-## 🌱 What's Loading Right Now
+## // currently_learning
 
 ```javascript
 const currentlyLearning = [
@@ -161,20 +161,20 @@ currentlyLearning.forEach(skill => console.log(`📚 ${skill}`));
 
 <br>
 
-## 📡 Let's Build Something
+## // contact()
 
 <div align="center">
 
 I'm open to **internships**, **freelance work**, **hackathon squads**, and just nerding out about web dev over a good conversation.
 
 <a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=090311"/>
 </a>
 <a href="https://github.com/saimacuser-dotcom">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-FF006E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:saicharangollapalli0@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-FFBE0B?style=for-the-badge&logo=gmail&logoColor=090311"/>
 </a>
 
 **📞 +91-8247509925**
@@ -183,6 +183,6 @@ I'm open to **internships**, **freelance work**, **hackathon squads**, and just 
 
 *"Building one commit at a time."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:090311,50:1e0938,100:090311&section=footer"/>
 
 </div>
