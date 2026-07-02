@@ -1,187 +1,153 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090311,50:1e0938,100:090311&text=Hi,%20I'm%20Saicharan%20👋&fontColor=00F0FF&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=16&descColor=A698BE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:090311,50:1e0938,100:090311&text=saicharan%20gollapalli&fontColor=00F0FF&fontSize=38&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=15&descColor=A698BE"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=const+dev+%3D+new+FullStackEngineer();;dev.status+%3D+%22Open+to+internships%22;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;console.log(%22Let's+ship+something.%22)"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=A698BE&center=true&vCenter=true&width=700&lines=STATUS%3A+AVAILABLE+%E2%80%94+LOOKING+FOR%3A+INTERNSHIPS+%E2%80%94+NAME%3A+saicharan"/>
+
+<br>
+
+<a href="mailto:saicharangollapalli0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/saimacuser-dotcom"><img src="https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=090311"/></a>
+<a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/"><img src="https://img.shields.io/badge/LINKEDIN-FFBE0B?style=for-the-badge&logo=linkedin&logoColor=090311"/></a>
 
 </div>
 
 <br>
 
+## `// summary.txt`
+
+I'm a Computer Science undergraduate at **Sir C R Reddy College of Engineering**, with a bias toward the backend: designing REST APIs, modeling data, and reasoning about how a system behaves once real users start hitting it — not just how it looks in a demo.
+
+My foundation is in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**. I pair that with hands-on work in **Node.js, Express.js, MongoDB, MySQL, and React**.
+
+I'm looking for a **Software Engineering Internship** at a product company — somewhere I can own a real feature, not just a ticket.
+
 ```
-
-  ┌─────────────────────────────────────────────────────────┐
-  │  whoami                                                  │
-  │  > Saicharan Gollapalli                                  │
-  │  > CS Undergrad @ Sir C R Reddy College of Engineering   │
-  │  > Class of 2028 | Full-Stack Dev | SIH Finalist         │
-  │  > Currently debugging: life, sleep schedule, and React  │
-  │    re-renders                                            │
-  └─────────────────────────────────────────────────────────┘
-
+location   Andhra Pradesh, IN
+study      B.Tech CS, 2024 – 2028
+focus      Backend & Full-Stack
+status     Open to internships
 ```
 
 <br>
 
-## // origin_story
+## `// skills_overview`
 
-I didn't start out chasing frameworks — I started out chasing *"why doesn't this work?"* at 1 AM. That curiosity turned into a portfolio site, then a queue-management system with QR codes, then a habit of shipping something new every few weeks. I'm a **Smart India Hackathon finalist**, which basically means I've survived 36 hours of caffeine, whiteboard chaos, and last-minute demo bugs — and come out the other side actually enjoying it.
-
-I build things that solve small, real annoyances: standing in a line, splitting a bill, tracking a project. Nothing groundbreaking on paper — just useful, working software.
-
-<br>
-
-## // stack.yaml
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Ingredients**
-```yaml
-languages:
-  - JavaScript (daily driver)
-  - Python     (scripts & AI dabbling)
-  - C++/C      (where it all began)
-  - SQL        (talking to databases)
-
-frontend:
-  - React
-  - Tailwind CSS
-  - HTML5 / CSS3
-
-backend:
-  - Node.js
-  - Express.js
-  - Firebase
-
-infra:
-  - MongoDB
-  - Docker
-  - Git & GitHub
 ```
-
-</td>
-<td valign="top" width="50%">
-
-**Method**
-```text
-1. Start with a real problem
-2. Sketch the UI in Figma
-3. Wire up React on the frontend
-4. Spin up Express + MongoDB backend
-5. Season with error handling
-6. Containerize with Docker
-7. Deploy, break, fix, repeat
-8. Serve to actual users
+BACKEND         █████████████████░░░  85%
+DATABASES       ██████████████████░░  90%
+FRONTEND        ███████████████░░░░░  75%
+DSA & SYSTEMS   ████████████████░░░░  80%
 ```
-
-</td>
-</tr>
-</table>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cpp,tailwindcss,firebase,mongodb,docker,figma,html,css,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,cpp,python,react,nodejs,express,mongodb,mysql,firebase,docker,git,github,figma,html,css,tailwindcss&theme=dark"/>
 </p>
 
 <br>
 
-## // projects/
+## `// build.log`
+
+| Timeline | Role | What it was |
+|---|---|---|
+| `Jan 2026 — Present` 🟢 running | Backend Developer | **Revision Tracker** — a SaaS platform for long-term DSA retention. Personalized review schedules, auth, progress tracking, analytics dashboards. `node` `express` `mongodb` `jwt` |
+| `Jan – Mar 2025` ✅ shipped | Full Stack Developer | **Q Mate** — digital queue management. QR-code tokens, real-time position tracking via Firebase. `react` `node` `firebase` |
+| `Apr – May 2025` ✅ shipped | Full Stack Developer | **Personal Portfolio Website** — responsive site with a real backend behind the contact form. `html` `css` `js` `node` `express` |
+| `May – Jun 2025` ✅ shipped | Frontend Developer | **Profit Calculator** — bilingual web app rebuilt from an earlier C++ console version. `html` `css` `js` |
+
+<br>
+
+## `// projects/`
 
 <details open>
-<summary><b>📱 Personal Portfolio Website</b> — where it all started</summary>
+<summary><b>🚀 Revision Tracker</b> — flagship · ongoing</summary>
 <br>
 
-> A responsive portfolio built to *actually* show off projects instead of just listing them. Form validation, interactive components, and a design that doesn't look like a template.
+> A SaaS product for engineers prepping DSA, built on one idea: forgetting is predictable, so review timing shouldn't be random. Schedules reviews right before you're likely to forget a problem, tracks progress by category, and visualizes retention over time.
 
-`React` `HTML` `CSS` `JavaScript` · Jan 2024 – Mar 2024
-[→ View Repository](#)
-</details>
-
-<details>
-<summary><b>🧮 Profit Calculator</b> — from C++ console to the browser</summary>
-<br>
-
-> Started as a C++ program, reborn as a bilingual React web app. Proof that old code can get a second life with a fresh coat of Tailwind.
-
-`React` `Tailwind CSS` `JavaScript` · May 2024
-[→ View Repository](#)
-</details>
-
-<details>
-<summary><b>🎫 Q Mate</b> — because waiting in line shouldn't be a full-time job</summary>
-<br>
-
-> A smart digital token system: scan a QR code, get your place in line, track it in real time. No more standing around wondering if you missed your turn.
-
-`React` `Firebase` `Node.js` `Express.js` `Figma` · 🟢 Ongoing
-[→ View Repository](#)
-</details>
-
-<details>
-<summary><b>🔌 Backend API Project</b> — currently in the oven</summary>
-<br>
-
-> A production-style RESTful API with proper error handling, MongoDB integration, and Docker containerization. Built to be deployed, not just demoed.
-
-`Node.js` `Express.js` `MongoDB` `Docker` · 🟡 In Development
-[→ View Repository](#)
-</details>
-
-<br>
-
-## // achievements.log
-
-| 🏆 | Milestone |
-|---|---|
-| 🥇 | Smart India Hackathon — National Finalist |
-| 🎖️ | National-Level Hackathon Participant (CS branch rep) |
-| 📜 | JavaScript — Coursera Professional Certificate |
-| 📜 | Python — SoloLearn Certification |
-| ☁️ | AWS & Machine Learning — Coursera Cloud Track |
-| 🎨 | Frontend Technologies — Advanced Coursera Specialization |
-
-<br>
-
-## // currently_learning
-
-```javascript
-const currentlyLearning = [
-  "Advanced React patterns — Hooks, Context, state management",
-  "Scalable backend architecture with Node.js & Express",
-  "Docker & containerization for production-ready apps",
-  "Database design — MongoDB + relational systems",
-  "DSA grind on LeetCode & CodeChef",
-  "Advanced Figma & design systems",
-  "AWS + Firebase deployment strategies"
-];
-
-currentlyLearning.forEach(skill => console.log(`📚 ${skill}`));
 ```
+PERFORMANCE    ████████████████████  100%
+RELIABILITY    ██████████████████░░   90%
+SCALABILITY    ████████████████████  100%
+```
+`node` `express` `mongodb` `jwt-auth` `rest`
+[→ View Repository](#)
+</details>
+
+<details>
+<summary><b>🎫 Q Mate</b> — real-time</summary>
+<br>
+
+> Digital token system replacing physical queues — scan a QR code, get a live position, walk away, come back on time.
+
+```
+PERFORMANCE    ████████████████░░░░   80%
+RELIABILITY    ████████████████████  100%
+SCALABILITY    ██████████████░░░░░░   70%
+```
+`react` `firebase` `express`
+[→ View Repository](#)
+</details>
+
+<details>
+<summary><b>📁 Portfolio Site</b> — full-stack</summary>
+<br>
+
+> A from-scratch portfolio with a real backend behind its contact form, not just static HTML pretending to be dynamic.
+
+```
+PERFORMANCE    ██████████████░░░░░░   70%
+RELIABILITY    ████████████████░░░░   80%
+SCALABILITY    ████████████░░░░░░░░   60%
+```
+`node` `express` `js`
+[→ View Repository](#)
+</details>
+
+<details>
+<summary><b>🧮 Profit Calculator</b> — frontend</summary>
+<br>
+
+> Bilingual web calculator rebuilt from an earlier C++ console version — same logic, made usable by people who never open a terminal.
+
+```
+PERFORMANCE    ██████████░░░░░░░░░░   50%
+RELIABILITY    ████████████░░░░░░░░   60%
+SCALABILITY    ██████████░░░░░░░░░░   50%
+```
+`html` `css` `js`
+[→ View Repository](#)
+</details>
 
 <br>
 
-## // contact()
+## `// achievements.log`
+
+| | Milestone |
+|---|---|
+| 🏅 | Smart India Hackathon — Internal Round Qualifier |
+| 🏅 | National-Level Hackathon Participant |
+| ♦️ | Regular LeetCode practitioner *(ongoing)* |
+| 🏅 | Winner, school-era quiz competitions |
+| ⭐ | JavaScript Professional Certificate — Coursera |
+| ⭐ | Python Certification — SoloLearn |
+| ⭐ | Machine Learning Fundamentals — Coursera |
+| ⭐ | Frontend Technologies Specialization — Coursera |
+
+<br>
+
+## `// contact()`
 
 <div align="center">
 
-I'm open to **internships**, **freelance work**, **hackathon squads**, and just nerding out about web dev over a good conversation.
+I'm looking for a Software Engineering internship where I can own real features, ship to real users, and learn the tradeoffs that don't show up in a classroom.
 
-<a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=090311"/>
-</a>
-<a href="https://github.com/saimacuser-dotcom">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-FF006E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:saicharangollapalli0@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-FFBE0B?style=for-the-badge&logo=gmail&logoColor=090311"/>
-</a>
+<a href="mailto:saicharangollapalli0@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saicharan-gollapalli-01b091336/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=090311"/></a>
 
 **📞 +91-8247509925**
 
 <br>
-
-*"Building one commit at a time."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:090311,50:1e0938,100:090311&section=footer"/>
 
